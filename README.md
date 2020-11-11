@@ -15,3 +15,8 @@ const aws_config = {
       debug: false
 };
 </code></pre>
+
+Change EdgeX export option.
+<pre>
+"format":"AWS_JSON" -> "format":"JSON"
+</pre>
